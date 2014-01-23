@@ -6,12 +6,12 @@ using System.Text;
 
 namespace ITI.Teaching.Interface.Domain
 {
-    public class SmsNotifier : INotifier
+    public class SmsNotifier : Notifier
     {
         public string Address { get; set; }
         public string Message { get; set; }
 
-        public string DoWork()
+        public override string DoWork()
         {
             Console.WriteLine("Sending SMS:");
             Console.WriteLine("Address: " + Address);

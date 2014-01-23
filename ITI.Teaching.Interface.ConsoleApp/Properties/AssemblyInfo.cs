@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ITI.Teaching.Interface.Domain")]
+[assembly: AssemblyTitle("ITI.Teaching.Interface.ConsoleApp")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ITI.Teaching.Interface.Domain")]
+[assembly: AssemblyProduct("ITI.Teaching.Interface.ConsoleApp")]
 [assembly: AssemblyCopyright("Copyright ©  2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("54c86294-a987-4ab7-852b-2d4cd65c6c52")]
+[assembly: Guid("65190278-0cc3-44f4-bf48-932039fda620")]
 
 // Version information for an assembly consists of the following four values:
 //
